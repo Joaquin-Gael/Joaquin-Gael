@@ -23,7 +23,7 @@
 - Correo electrónico: [guzmanantonio867@gmail.com](mailto:guzmanantonio867@gmail.com)
 
 ## 😄 Pronombres:
-- lo siento pero esto es una tonto XD
+- lo siento pero esto es tonto XD
 
 ## ⚡ Dato curioso:
 - Disfruto explorando la intersección entre el software y el hardware, combinando mi pasión por el desarrollo backend con aplicaciones prácticas en sistemas embebidos.
