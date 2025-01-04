@@ -1,61 +1,138 @@
-# 👋 Hola, soy @Joaquin-Gael
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👀 Estoy interesado en:
-- Desarrollo backend con Django, Django REST Framework (DRF) y FastAPI.
-- Programación orientada a objetos (POO) y programación funcional con Python.
-- Desarrollo frontend con jQuery y React para crear vistas e interfaces dinámicas.
-- TypeScript para mejorar aplicaciones JavaScript.
-- Rust para programación de sistemas, incluyendo desarrollo bare metal con Arduino y el microcontrolador ATmega328P.
+<!--h1 without bottom border-->
 
-## 🌱 Actualmente estoy aprendiendo:
-- Conceptos avanzados en Django, DRF y FastAPI.
-- Profundizando en jQuery y React para construir interfaces de usuario responsivas.
-- Explorando TypeScript para desarrollo seguro en JavaScript.
-- Rust para desarrollo backend y su aplicación en programación de sistemas embebidos con Arduino.
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Joaquin-Gael</h1></summary>
+  </ul>
+</div>
 
-## 💞️ Estoy buscando colaborar en:
-- Proyectos de código abierto relacionados con Django, FastAPI o Rust.
-- Proyectos frontend que utilicen React y TypeScript.
-- Proyectos de Arduino y sistemas embebidos con Rust.
 
-## 📫 Cómo contactarme:
-- [GitHub](https://github.com/Joaquin-Gael)
-- Correo electrónico: [guzmanantonio867@gmail.com](mailto:guzmanantonio867@gmail.com)
+<!--About Me-->
 
-## 😄 Pronombres:
-- lo siento pero esto es tonto XD
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-## ⚡ Dato curioso:
-- Disfruto explorando la intersección entre el software y el hardware, combinando mi pasión por el desarrollo backend con aplicaciones prácticas en sistemas embebidos.
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
----
+- :school: I am a `Junior` at [IPET N° 57 Comodoro Martin Rivadavia](https://www.instagram.com/ipet_57/?hl=es) in [CBA](https://www.instagram.com/ipet_57/?hl=es)
+- :technologist: **Currently searching working of** `Backend Development` **&** `Data Science` or `Machine Learning Developer`
+- :boom: You can visit [MY WEBSITE]([https://github.com/Joaquin-Gael]) for some APPS projects
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Joaquin-Gael&amp;color=EA4335&amp;style=flat-square)](mailto:guzmanantonio867@gmail.com)
+- :nerd_face: Always believe `"You are what you loved"`
 
-# 👋 Hi, I’m @Joaquin-Gael
+<br>
 
-## 👀 I’m interested in:
-- Backend development with Django, Django REST Framework (DRF), and FastAPI.
-- Object-Oriented Programming (OOP) and Functional Programming with Python.
-- Frontend development with jQuery and React for creating dynamic views and interfaces.
-- TypeScript for enhancing JavaScript applications.
-- Rust for systems programming, including bare metal development with Arduino and the ATmega328P microcontroller.
+## 🛠️ My Skills
 
-## 🌱 I’m currently learning:
-- Advanced concepts in Django, DRF, and FastAPI.
-- Deepening my understanding of jQuery and React for building responsive user interfaces.
-- Exploring TypeScript for type-safe JavaScript development.
-- Rust for backend development and its application in embedded systems programming with Arduino.
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 
-## 💞️ I’m looking to collaborate on:
-- Open-source projects related to Django, FastAPI, or Rust.
-- Frontend projects that utilize React and TypeScript.
-- Arduino and embedded systems projects with Rust.
+![Rust](https://img.shields.io/badge/Rust-B87A00?style=flat-square&logo=Rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-119DA4?style=flat-square&logo=Go&logoColor=white)
 
-## 📫 How to reach me:
-- [GitHub](https://github.com/Joaquin-Gael/)
-- Email: [guzmanantonio867@gmail.com.com](mailto:guzmanantonio867@gmail.com.com)
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Web Development
 
-## 😄 Pronouns:
-- I'm sorry but this is stupid XD
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Reflex](https://img.shields.io/badge/Reflex-FFFFFA?style=flat-square&logo=Reflex&logoColor=white)
+![React](https://img.shields.io/badge/React-19647E?style=flat-square&logo=React&logoColor=white)
+![Django](https://img.shields.io/badge/Django-142F0E?style=flat-square&logo=Django&logoColor=white)
+![FastApi](https://img.shields.io/badge/FastApi-009485?style=flat-square&logo=FastApi&logoColor=white)
 
-## ⚡ Fun fact:
-- I enjoy exploring the intersection of software and hardware, combining my passion for backend development with practical applications in embedded systems.
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis and Machine Learning Developer
+
+![PosgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-150458?style=flat-square&logo=polars&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-020887?style=flat-square&logo=Plotly&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-E03400?style=flat-square&logo=Pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white)
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
+![PosgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![RustRover](https://img.shields.io/badge/RustRover-B87A00?style=flat-square&logo=RustRover&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+![Mint](https://img.shields.io/badge/Mint-92D982?style=flat-square&logo=LinuxMint&logoColor=white)
+
+### <picture> <img src="https://media.giphy.com/media/3o6UB6gbDSg7OBF1ji/giphy.gif" width="20px" alt="Rust Mascot GIF">  </picture> Learning and Improving
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,graphql,pytorch,go,fastapi,tauri" />
+  </a>
+</p>
+
+<br>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+
+<!--- stats & Trophy (start) -->
+
+<p align="left">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Joaquin-Gael&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Joaquin-Gael&theme=dark&hide_border=false" /> 
+</td>
+
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Joaquin-Gael&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Joaquin-Gael&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+
+<!--- trophy (start) -->
+</p>        
+<!--- stats (end) -->
+
+<br>
+
+<!--profile visit count-->
+
+<div align="center">
+
+
+[![](https://visitcount.itsvg.in/api?id=Joaquin-Gael&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+-----------
+
+Credit: [ElioChiu](https://github.com/ElioChiu)
+
+Last Edited on: 3/1/2025
