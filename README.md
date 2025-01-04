@@ -61,21 +61,25 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![RustRover](https://img.shields.io/badge/RustRover-B87A00?style=flat-square&logo=RustRover&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,pycharm,vscode" />
+  </a>
+</p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
-![Mint](https://img.shields.io/badge/Mint-92D982?style=flat-square&logo=LinuxMint&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,mint" />
+  </a>
+</p>
 
 ### <picture> <img src="https://media.giphy.com/media/3o6UB6gbDSg7OBF1ji/giphy.gif" width="20px" alt="Rust Mascot GIF">  </picture> Learning and Improving
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,graphql,pytorch,go,fastapi,tauri" />
+    <img src="https://skillicons.dev/icons?i=docker,graphql,pytorch,go,fastapi,tauri,yew" />
   </a>
 </p>
 
