@@ -36,10 +36,10 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-1572B6?style=flat-square&logo=tailwind&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Reflex](https://img.shields.io/badge/Reflex-FFFFFA?style=flat-square&logo=Reflex&logoColor=white)
-![React](https://img.shields.io/badge/React-19647E?style=flat-square&logo=React&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-d6002f?style=flat-square&logo=Angular&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-142F0E?style=flat-square&logo=Django&logoColor=white)
 ![FastApi](https://img.shields.io/badge/FastApi-009485?style=flat-square&logo=FastApi&logoColor=white)
 
@@ -80,7 +80,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,graphql,pytorch,go,fastapi,tauri,yew" />
+    <img src="https://skillicons.dev/icons?i=docker,pytorch,go,tauri,yew" />
   </a>
 </p>
 
