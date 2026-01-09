@@ -16,7 +16,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `programming technician`, graduated of [IPET N° 57 Comodoro Martin Rivadavia](https://www.instagram.com/ipet_57/?hl=es) in [CBA](https://www.instagram.com/ipet_57/?hl=es)
+- :school: I am a `programming technician`, graduated of [IPET N° 57 Comodoro Martin Rivadavia](https://www.instagram.com/ipet_57/?hl=es) in [CBA](https://www.instagram.com/ipet_57/?hl=es) [2025]
 - :technologist: **Currently searching working of** `Backend Development` **&** `Data Science` or `Machine Learning Developer`
 - :boom: You can visit [MY WEBSITE](https://my-site-y0pw.onrender.com/) for some APPS projects
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Joaquin-Gael&amp;color=EA4335&amp;style=flat-square)](mailto:guzmanantonio867@gmail.com)
