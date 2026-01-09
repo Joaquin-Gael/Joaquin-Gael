@@ -20,7 +20,6 @@
 - :technologist: **Currently searching working of** `Backend Development` **&** `Data Science` or `Machine Learning Developer`
 - :boom: You can visit [MY WEBSITE]([https://github.com/Joaquin-Gael]) for some APPS projects
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Joaquin-Gael&amp;color=EA4335&amp;style=flat-square)](mailto:guzmanantonio867@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
 
 <br>
 
